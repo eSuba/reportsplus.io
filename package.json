@@ -1,0 +1,22 @@
+{
+  "name": "reportsplus-landing",
+  "version": "1.0.0",
+  "description": "Landing page pour Reports+ - Analytics Instagram",
+  "scripts": {
+    "dev": "serve -p 3000",
+    "start": "serve -p 3000",
+    "preview": "serve -p 3000"
+  },
+  "keywords": [
+    "reports+",
+    "instagram",
+    "analytics",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
+
