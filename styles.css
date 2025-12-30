@@ -890,6 +890,13 @@ a {
     margin-top: 16px;
 }
 
+.footer-company {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    margin-top: 8px;
+    font-weight: 500;
+}
+
 .footer-links {
     display: flex;
     gap: 80px;
